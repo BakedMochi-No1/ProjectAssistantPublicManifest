@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote fetch="ssh://git@github.com/" name="github"/>
+    <default remote="github" revision="master" />
+    <project name="BakedMochi-No1/ProjectAssistantConfigs" path="Configs" revision="master" />
+    <project name="BakedMochi-No1/ProjectAssistantCommands" path="Commands" revision="master" />
+    <project name="BakedMochi-No1/ProjectAssistantExecute" path="Exec" revision="master" />
+</manifest>
